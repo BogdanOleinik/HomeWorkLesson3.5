@@ -61,8 +61,8 @@
 		9C49C4AE27DCE8FF009F3080 /* HomeWorkLesson3.5 */ = {
 			isa = PBXGroup;
 			children = (
-				9C49C4AF27DCE8FF009F3080 /* HomeWorkLesson3_5App.swift */,
 				9C49C4C527DCED98009F3080 /* Models */,
+				9C49C4AF27DCE8FF009F3080 /* HomeWorkLesson3_5App.swift */,
 				9C49C4B127DCE8FF009F3080 /* ContentView.swift */,
 				9C49C4BD27DCE928009F3080 /* ContactList.swift */,
 				9C49C4C627DCEFC7009F3080 /* PersonInformation.swift */,
